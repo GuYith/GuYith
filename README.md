@@ -1,5 +1,5 @@
 <H1>
-  <p algin="center"> "Hello World" 🎇 </p>
+  <p align="center"> "Hello World" 🎇 </p>
 </H1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=GuYith&color=green&style=flat-square" alt="GuYith" /> </p>
