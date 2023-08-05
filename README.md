@@ -11,6 +11,7 @@
 
 
 ### Skills
+<img align="right" width="40%" style="marign: 20px" src="https://github.com/GuYith/GuYith/assets/48597370/b06a5a0a-a7d3-4a01-937a-bbd3b624865f"/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,4 +25,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuYith&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuYith&layout=donut"/>
+
+
+
+
+
